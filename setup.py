@@ -15,7 +15,7 @@ install_requires = [
     "cryptography==2.8",
     "itsdangerous==1.1.0",
     "Jinja2==2.11.1",
-    "lxml==4.5.0",
+    "lxml==4.9.1",
     "MarkupSafe==1.1.1",
     "mccabe==0.6.1",
     "mypy-extensions==0.4.3",

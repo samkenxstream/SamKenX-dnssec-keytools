@@ -24,7 +24,7 @@ install_requires = [
     "pydocstyle==5.0.2",
     "pyflakes==2.1.1",
     "PyKCS11==1.5.7",
-    "PyYAML==5.3",
+    "PyYAML==5.4",
     "six==1.14.0",
     "snowballstemmer==2.0.0",
     "typed-ast==1.4.1",

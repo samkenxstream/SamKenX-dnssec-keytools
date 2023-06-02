@@ -12,7 +12,7 @@ install_requires = [
     "cffi==1.13.2",
     "click==7.0",
     "colorama==0.4.3",
-    "cryptography==2.8",
+    "cryptography==41.0.0",
     "itsdangerous==1.1.0",
     "Jinja2==2.11.1",
     "lxml==4.5.0",
